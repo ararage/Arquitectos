@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Arquitectos
+        psr4_prefix: Arquitectos
+        src_path: app
